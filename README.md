@@ -1,0 +1,1 @@
+# Thrifts Desktop installers
